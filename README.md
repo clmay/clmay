@@ -15,7 +15,8 @@ These are some of my current interests:
 - Microservices architecture
 - Distributed systems engineering
 - The [IndieWeb](https://indieweb.org/) movement
-- The [Fediverse]() and [Tildeverse](https://tildeverse.org/)
+- The [Fediverse](https://fediverse.party/en/fediverse) and
+  [Tildeverse](https://tildeverse.org/)
 - [Dotfiles management](https://clm.dev/interests/dotfiles/)
 - Programming language theory & design
 
