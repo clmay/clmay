@@ -6,7 +6,8 @@ Lake City, Utah~~ remotely for now. I'm originally from Oregon.
 At work, I develop automated tests and testing infrastructure with Ruby and
 Docker. I prefer Elixir, Rust, Go, and Svelte for my personal work.
 
-These are some of my current interests:
+Below are some of my current interests. You can also visit my
+[website](https://clm.dev) to learn more about me 🙂
 
 - Elixir (if you're with a company that's hiring Elixir engineers,
   [please get in touch](mailto:clmay@hey.com))
@@ -19,5 +20,5 @@ These are some of my current interests:
 - [Dotfiles management](https://clm.dev/interests/dotfiles/)
 - Programming language theory & design
 
-I'm on [Hey](https://hey.com) 👋 so feel free to
+I'm also on [Hey](https://hey.com) 👋 so feel free to
 [email me](mailto:clmay@hey.com).
