@@ -19,5 +19,5 @@ Below are some of my current interests. You can also visit my
 - [Dotfiles management](https://clm.dev/interests/dotfiles/)
 - Programming language theory & design
 
-I'm also on [Hey](https://hey.com) 👋 so feel free to
+I'm also on [Hey](https://hey.com) so feel free to
 [email me](mailto:clmay@hey.com).
