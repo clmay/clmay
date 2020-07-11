@@ -9,7 +9,7 @@ Below are some of my current interests. You can also visit my
 [website](https://clm.dev) to learn more about me 🙂
 
 - Elixir (if you're looking to hire engineers to **work remotely** or with an
-  **Elixir** stack, [please get in touch](mailto:clmay@hey.com))
+  **Elixir stack**, [please get in touch](mailto:clmay@hey.com))
 - Backend software engineering
 - Microservices architecture
 - Distributed systems engineering
