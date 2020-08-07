@@ -6,7 +6,7 @@ develop automated tests and testing infrastructure with Ruby. I prefer **Elixir,
 Rust, and Svelte** for my personal work.
 
 If you're looking to hire engineers to **work remotely** or with an **Elixir
-stack**, [please get in touch](mailto:p5j35nbue@relay.firefox.com)
+stack**, [please get in touch](mailto:p5j35nbue@relay.firefox.com).
 
 Below are some of my current interests. You can also visit my
 [website](https://clm.dev) to learn more about me 🙂
