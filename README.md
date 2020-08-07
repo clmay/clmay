@@ -2,11 +2,20 @@
 
 I'm Chase. I'm a [software engineer](https://github.com/clmay) working ~~in Salt
 Lake City, Utah~~ remotely for now. I'm originally from Oregon. At work, I
-develop automated tests and testing infrastructure with Ruby. I prefer **Elixir,
-Rust, and Svelte** for my personal work.
+develop automated tests and testing infrastructure with **Ruby**.
 
-If you're looking to hire engineers to **work remotely** or with an **Elixir
-stack**, [please get in touch](mailto:p5j35nbue@relay.firefox.com).
+For personal projects, I enjoy working with **Elixir**, **Rust**, and
+**Svelte**. I'm particularly interested in solving hard backend problems,
+building APIs, microservices, and distributed systems.
+
+If you're with a company that's **hiring remote workers** or **Elixir
+engineers** in any of the following places,
+[drop me a note](mailto:p5j35nbue@relay.firefox.com) and let's talk!
+
+- Eugene, Oregon
+- Portland, Oregon
+- Vancouver, BC
+- Germany
 
 Below are some of my current interests. You can also visit my
 [website](https://clm.dev) to learn more about me 🙂
