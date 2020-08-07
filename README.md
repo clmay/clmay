@@ -30,5 +30,5 @@ Below are some of my current interests. You can also visit my
 - [Dotfiles management](https://clm.dev/interests/dotfiles/)
 - Programming language theory & design
 
-Feel free to open an issue here or
+Feel free to [open an issue](https://github.com/clmay/clmay/issues/new) here or
 [email me](mailto:p5j35nbue@relay.firefox.com).
