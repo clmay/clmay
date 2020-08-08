@@ -18,6 +18,6 @@ engineers** in any of the following places,
 - Germany
 
 You can also visit my [website](https://clm.dev) to learn more about me 🙂
-
-Feel free to [open an issue](https://github.com/clmay/clmay/issues/new) or
+Please also feel free to
+[open an issue](https://github.com/clmay/clmay/issues/new) or
 [email me](mailto:p5j35nbue@relay.firefox.com) if you'd like to get in touch.
