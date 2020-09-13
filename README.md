@@ -20,4 +20,4 @@ engineers** in any of the following places,
 
 Feel free to visit my [website](https://clm.dev), or get in touch by
 [opening an issue](https://github.com/clmay/clmay/issues/new) or
-[emailing me](mailto:p5j35nbue@relay.firefox.com) 🙂
+[emailing me](mailto:p5j35nbue@relay.firefox.com). 🙂
