@@ -12,9 +12,9 @@ If you're with a company that's hiring engineers,
 [drop me a note](mailto:hire@clm.dev) and let's talk! I'm interested in the
 following:
 
-- Elixir jobs (willing to relocate for the right opportunity)
-- Any engineering position that is fully remote
-- Any engineering position based in Eugene, Oregon
+- **Elixir** jobs (willing to relocate for the right opportunity)
+- Any engineering position that is **fully remote**
+- Any engineering position based in _Eugene, Oregon_
 
 Feel free to visit my [website](https://clm.dev), or get in touch by
 [opening an issue](https://github.com/clmay/clmay/issues/new) or
