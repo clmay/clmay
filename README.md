@@ -14,7 +14,7 @@ following:
 
 - **Elixir** jobs (willing to relocate for the right opportunity)
 - Any engineering position that is **fully remote**
-- Any engineering position based in _Eugene, Oregon_
+- Any engineering position based in **Eugene, Oregon**
 
 Feel free to visit my [website](https://clm.dev), or get in touch by
 [opening an issue](https://github.com/clmay/clmay/issues/new) or
