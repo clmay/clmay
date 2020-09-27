@@ -2,8 +2,8 @@
 
 ## Hello!
 
-I'm Chase. I'm a [software engineer](https://github.com/clmay) who lives in
-Ogden, Utah, but I'm originally from Roseburg, Oregon.
+I'm Chase. I'm a software engineer who lives in Ogden, Utah, but I'm originally
+from Roseburg, Oregon.
 
 I like to work with **JavaScript**, **TypeScript**, **Go**, **Rust**, and
 **Svelte**. In my free time, I like creative coding, game development,
