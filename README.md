@@ -2,8 +2,7 @@
 
 I'm Chase.
 
-I like to work with: **JavaScript**, **TypeScript**, **Svelte**, **Go**, and
-**Rust**.
+I like to work with JavaScript, TypeScript, Svelte, Go, and Rust.
 
 When I'm not coding, I like to read, think, write, and
 [sit](https://en.wikipedia.org/wiki/Shikantaza).
